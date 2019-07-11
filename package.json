@@ -1,0 +1,29 @@
+{
+  "name": "react-toolkit",
+  "displayName": "React Toolkit 🧰",
+  "description": "A Collection of vscode extensions for kickstarting the react projects immediately",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.36.0"
+  },
+  "keywords": [
+    "React",
+    "React ToolKit",
+    "React Snippets",
+    "React DeveloperKit",
+    "React KickStart"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "capaj.vscode-exports-autocomplete",
+    "christian-kohler.npm-intellisense",
+    "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
+    "dzannotti.vscode-babel-coloring",
+    "esbenp.prettier-vscode",
+    "mgmcdermott.vscode-language-babel",
+    "wix.vscode-import-cost"
+  ]
+}
