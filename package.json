@@ -4,7 +4,7 @@
   "description": "A Collection of vscode extensions for kickstarting the react projects immediately",
   "version": "0.0.1",
   "publisher": "p-rk",
-  "icon": "images/react-toolkit.png",
+  "icon": "images/react-toolkit-icon.png",
   "engines": {
     "vscode": "^1.36.0"
   },
